@@ -1,6 +1,7 @@
 Sales and Finance Analytics- Codebasics
 
-📚Learnings:
+## 📚Learnings
+
 1.Excel Functions
 2.Data Cleaning using Power Query
 3.Data Modelling
