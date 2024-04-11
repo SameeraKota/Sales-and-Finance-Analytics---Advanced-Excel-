@@ -7,7 +7,7 @@ Sales analysis empowers businesses to evaluate their sales performance over time
 Project Objectives:
 
 Customer Performance: Conducted in-depth analysis to evaluate customer performance metrics. 
-Check here: https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf
+Check here:[Customer Performance Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf) 
 Market Performance: Thoroughly compared market performance with sales targets to identify discrepancies.
 
 
