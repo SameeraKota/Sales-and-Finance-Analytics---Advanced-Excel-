@@ -4,7 +4,7 @@
 ## Sales Analysis:
 Sales analysis empowers businesses to evaluate their sales performance over time, identifying trends, successes and areas for improvement. Also to maximize revenue and ultimately drive sustainable growth and success in the competitive business landscape.
 
-Project Objectives:
+<h2>Project Objectives (Darker)</h2>:
 
 1. Customer Performance: Conducted in-depth analysis to evaluate customer performance metrics.
  
@@ -21,9 +21,7 @@ Project Objectives:
 
 3. Profit and Loss (P&L) Reports: Developed P&L reports for fiscal years and months.
 
-Check here: [P&L Fiscal Year Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20by%20Fiscal%20Years.pdf) , 
-
-[P&L Months Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20by%20Months.pdf) 
+Check here: [P&L Fiscal Year Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20by%20Fiscal%20Years.pdf) , [P&L Months Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20by%20Months.pdf) 
 
 4. P&L Reports by Markets: Generated categorized P&L reports for different markets.
 
