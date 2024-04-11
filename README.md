@@ -8,13 +8,13 @@ Project Objectives:
 
 1. Customer Performance: Conducted in-depth analysis to evaluate customer performance metrics.
  
-   Check here:[Customer Performance Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf) 
+   Check here: [Customer Performance Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf) 
 
 2. Market Performance: Thoroughly compared market performance with sales targets to identify discrepancies.
 
    Check here: [Market Performance Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf) 
 
-## Financial Analysis:
+## Finance Analysis:
 Finance Analysis provides insights into the financial health of a business by analyzing key financial statements and helps business leaders make informed decisions regarding investments, budget allocations, pricing strategies etc,
   
 Project Objectives:
