@@ -1,16 +1,17 @@
 
-## Analytics Review: AtliQ Hardwares
+# Analytics Review: AtliQ Hardwares
 
-# Sales Analysis:
+## Sales Analysis:
 Sales analysis empowers businesses to evaluate their sales performance over time, identifying trends, successes and areas for improvement. Also to maximize revenue and ultimately drive sustainable growth and success in the competitive business landscape.
 
 Project Objectives:
 
-Customer Performance: Conducted in-depth analysis to evaluate customer performance metrics.
+Customer Performance: Conducted in-depth analysis to evaluate customer performance metrics. 
+Check here: https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/Customer%20Sales%20Performance%20Report.pdf
 Market Performance: Thoroughly compared market performance with sales targets to identify discrepancies.
 
 
-# Financial Analysis:
+## Financial Analysis:
 Finance Analysis provides insights into the financial health of a business by analyzing key financial statements and helps business leaders make informed decisions regarding investments, budget allocations, pricing strategies etc,
   
 Project Objectives:
