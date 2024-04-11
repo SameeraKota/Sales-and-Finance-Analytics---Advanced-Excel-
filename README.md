@@ -25,7 +25,7 @@ Project Objectives:
 
 4. P&L Reports by Markets: Generated categorized P&L reports for different markets.
 
-   Check here: [Customer Performance Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20for%20Markets.pdf)
+   Check here: [P&L Market Report](https://github.com/SameeraKota/Sales-and-Finance-Analytics-Excel/blob/main/P%26L%20for%20Markets.pdf)
 
 ## 📚Learnings
 
